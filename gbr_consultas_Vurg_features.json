@@ -1,0 +1,16 @@
+{
+  "features": [
+    "anio_norm",
+    "sin_mes",
+    "cos_mes",
+    "consultas_lag1",
+    "ocupacion_lag1",
+    "cirugias_lag1",
+    "urgencias_lag1",
+    "feriados",
+    "covid_dummy",
+    "clima_calor",
+    "clima_templado",
+    "clima_frio"
+  ]
+}
