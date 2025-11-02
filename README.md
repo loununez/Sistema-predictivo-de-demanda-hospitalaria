@@ -2,6 +2,7 @@
 
 **Grupo n°76 – Vertical Data Science (HealthTech)**  
 **Proyecto desarrollado en No Country**  
+**Demostración del proyecto: https://www.youtube.com/watch?v=6jqe4DEqTF8**
 
 ---
 
